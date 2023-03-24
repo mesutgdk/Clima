@@ -6,9 +6,7 @@ I have made a beautiful, dark-mode enabled weather app. You are able to check th
 
 ## The Goal
 
-It’s time to take our app development skills to the next level. You are introduced to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet.
-
-If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+You are introduced to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet.
 
 
 ## What creating this app teaches
