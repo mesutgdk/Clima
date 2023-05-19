@@ -3,6 +3,8 @@
 
 I have made a beautiful, dark-mode enabled weather app. You are able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
+![ezgif com-video-to-gif](https://github.com/mesutgdk/Clima/assets/112901255/c927037c-ac38-4ee3-8847-0c4fa07b9d8d)
+
 
 ## The Goal
 
