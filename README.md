@@ -13,9 +13,7 @@ You are introduced to the wonderful world of Application Programming Interfaces 
 
 ## What creating this app teaches
 
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* How to use the UITextField to get user input. 
+* Usage of UITextField to get user input. 
 * About the delegate pattern.
 * Swift protocols and extensions. 
 * Swift guard keyword. 
